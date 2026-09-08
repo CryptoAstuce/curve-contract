@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture commentee de Curve (StableSwap) en francais, un mecanisme par chapitre, est disponible dans docs/fr/. Le sommaire se trouve dans docs/fr/README.md. Rien n'a ete installe, compile ni execute : ce parcours est purement documentaire.
+
 # curve-contract
 
 Vyper contracts used in [Curve](https://www.curve.finance/) exchange pools.
